@@ -1,0 +1,10 @@
+C:\Users\el_primo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\el_primo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\el_primo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\el_primo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BasicBrowser.exe.config
+C:\Users\el_primo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BasicBrowser.exe
+C:\Users\el_primo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BasicBrowser.pdb
+C:\Users\el_primo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BasicBrowser.resources
+C:\Users\el_primo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BasicBrowser.Properties.Resources.resources
+C:\Users\el_primo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BasicBrowser.exe
+C:\Users\el_primo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BasicBrowser.pdb
